@@ -1,0 +1,3 @@
+D:\FACULTATE\AN 4\PRS\OpenCVApplication-VS2015_31_basic (1)\OpenCVApplication-VS2015_31_basic\x64\Release\OpenCVApplication.exe
+D:\FACULTATE\AN 4\PRS\Project\x64\Release\OpenCVApplication.exe
+D:\FACULTATE\AN 4\PRS\Project\PRS_PROJECT\x64\Release\OpenCVApplication.exe
